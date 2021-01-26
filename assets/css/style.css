@@ -1,0 +1,42 @@
+header,
+footer {
+    background-color: rgba(100, 23, 151, 0.658);
+    color: white;
+}
+
+#navegacao>li>a:hover {
+    color: white;
+    border-bottom: 3px white solid;
+}
+
+#dropdown>a:hover {
+    background-color: rgba(100, 23, 151, 0.363);
+    color: white;
+    border-bottom: 3px rgba(100, 23, 151, 0.658) solid;
+}
+
+#cards {
+    background-color: white;
+    color: rgb(100, 23, 151)
+}
+
+#colunas>:hover {
+    background-color: rgba(100, 23, 151, 0.37);
+    color: white;
+}
+
+#sobre,
+#github {
+    background-color: rgba(38, 192, 197, 0.904);
+    color: white;
+}
+
+#contatos {
+    background-color: rgb(65, 201, 206);
+    color: white;
+}
+
+#colunas2>:hover {
+    background-color: white;
+    color: rgb(65, 201, 206);
+}
