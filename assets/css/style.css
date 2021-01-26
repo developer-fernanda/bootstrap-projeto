@@ -1,28 +1,20 @@
-header,
-footer {
-    background-color: rgba(100, 23, 151, 0.658);
-    color: white;
-}
-
 #navegacao>li>a:hover {
     color: white;
     border-bottom: 3px white solid;
 }
 
 #dropdown>a:hover {
-    background-color: rgba(100, 23, 151, 0.363);
+    background-color: rgba(38, 192, 197, 0.562);
     color: white;
-    border-bottom: 3px rgba(100, 23, 151, 0.658) solid;
 }
 
 #cards {
     background-color: white;
-    color: rgb(100, 23, 151)
+    color: black;
 }
 
 #colunas>:hover {
-    background-color: rgba(100, 23, 151, 0.37);
-    color: white;
+    background-color: rgba(38, 192, 197, 0.247);
 }
 
 #sobre,
@@ -32,11 +24,10 @@ footer {
 }
 
 #contatos {
-    background-color: rgb(65, 201, 206);
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 #colunas2>:hover {
-    background-color: white;
-    color: rgb(65, 201, 206);
+    background-color: rgba(38, 192, 197, 0.247);
 }
